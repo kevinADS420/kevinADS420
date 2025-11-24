@@ -8,7 +8,7 @@
 - 👋 Hola, yo soy @kevinADS420 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 👀 Me interesa desrroyar apps y paginas web
 - 🌱 I’m currently learning Laravel con php.   
-- 📫 Mi correo de contacto: "kevin.aguirre.ads@gmail.com" y telefono: "3127493535"
+- 📫 Mi correo de contacto: "kevin.aguirre.ads@gmail.com" y telefono: "3150656600"
 - ⚡ Fun fact: soy muy curioso y me interesa aprender cosas nuvas todos los días 
 
 ---
